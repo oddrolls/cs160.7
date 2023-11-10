@@ -1,0 +1,5 @@
+TIME ANAL:
+The time complexity of this function is O(n^2) due to two nested for loops.
+
+SPACE ANAL: 
+The space complexity of this function is O(1), or constant time because it updates the same array, requiring no additional space.
